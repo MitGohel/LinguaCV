@@ -52,5 +52,5 @@ class Resume:
                 self.certification.__dict__,
             ],
             "skills": self.skills.__dict__,
-            "summary": self.summary,
         }
+#backend/helper_classes.py
